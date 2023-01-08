@@ -399,7 +399,7 @@ logo = """
 ██████╔╝██║   ██║██╔████╔██║██║
 ██╔══██╗██║   ██║██║╚██╔╝██║██║
 ██║  ██║╚██████╔╝██║ ╚═╝ ██║██║
-╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚═╝
+╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚═╝PATHNER RONI
 \033[1;97m•••••••••••••••••••••••••••••••••••••••••••••• 
 \x1b[1;90m[+] 𝗔𝗨𝗧𝗛𝗢𝗥     :   RX ROMI
 \x1b[1;91m[+] 𝗙𝗔𝗖𝗘𝗕𝗢𝗢𝗞   :    ROMI XTAR
@@ -421,12 +421,12 @@ class Main:
 		print(logo)
 		print("")
 		print("- - - - - - - - - - - - - - - - - - - - - - - - - - - - - -")
-		print("\033[1;37mNOTE : APPROVAL K LIYE FACEBOOK PR FOLLOW KR DEN")
+		print("\033[1;37mNOTE : APPROVAL K LIYE MASSAGE KR DEN 03186332871")
 		print("- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ")
 		
 		
 		print("")
-		print("\033[1;37m [1] First Send Friend Request  ")
+		print("\033[1;37m [1] START CLONING (RX)  ")
 		print("\033[1;37m [2] EXIT")
 		print("")
 		Baloch = input("\n\033[1;37m  Choose : \033[1;32m")
@@ -436,20 +436,20 @@ class Main:
 			print("    Thanks♥️")
 			exit()
 		elif Baloch in ["1", "01"]:
-			os.system("xdg-open #yaha par apni fb id ka link dalna ")
+			os.system("xdg-open #https://www.facebook.com/profile.php?id=100060780215265 ")
 			print("")
 			time.sleep(3.0)
-			print("\033[1;37m    CHECKING APPROVAL ")
+			print("\033[1;37m    CHECKING APPROVAL OWNER ROMI ")
 			print("")
 			input("\n\033[1;37m TYPE THE OWNER FACEBOOK ACCOUNT NAME \033[1;37m")
 			time.sleep(3.1)
 			print("")
-			print("\033[1;32m WELCOME TO *TH3 L3G3ND FAISAL X HAYAT WORLD*  TOOLS")
+			print("\033[1;32m WELCOME TO *TH3 L3G3ND ROMI OF WORLD*  TOOLS")
 			time.sleep(3.0)
 			os.system("clear")
 		print(logo)
 		print(" [+]CHOOSE METHOD")
-		print ("\033[1;36m           FAISAL X HAYAT WORLD")
+		print ("\033[1;36m           ROMI THE DARK WORLD")
 		print("\033[1;37m- - - - - - - - - - - - - - - - - - - - - - - - - - -")
 		print(" \033[1;32m[1]\033[0;92m File Cloning ")
 		print(" \033[1;32m[2] Public Cloning")
