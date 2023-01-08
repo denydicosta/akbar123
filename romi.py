@@ -444,12 +444,12 @@ class Main:
 			input("\n\033[1;37m TYPE THE OWNER FACEBOOK ACCOUNT NAME \033[1;37m")
 			time.sleep(3.1)
 			print("")
-			print("\033[1;32m WELCOME TO *TH3 L3G3ND FAISAL X HAYAT WORLD*  TOOLS")
+			print("\033[1;32m WELCOME TO *TH3 L3G3ND OF ROMI WORLD*  TOOLS")
 			time.sleep(3.0)
 			os.system("clear")
 		print(logo)
 		print(" [+]CHOOSE METHOD")
-		print ("\033[1;36m           FAISAL X HAYAT WORLD")
+		print ("\033[1;36m           L3G3ND ROMI OF WORLD")
 		print("\033[1;37m- - - - - - - - - - - - - - - - - - - - - - - - - - -")
 		print(" \033[1;32m[1]\033[0;92m File Cloning ")
 		print(" \033[1;32m[2] Public Cloning")
@@ -457,22 +457,7 @@ class Main:
 		print(" \033[1;32m[4] 2004 To 2010 ")
 		print(" \33[1;32m[5] 2010 To 2015 ")
 		print("\033[1;32m [E] Exit \n")
-		UZAIR =input(" \033[1;32mCHOOSE : ")
-		if UZAIR in ["1", "01"]:
-			File()
-		if UZAIR in ["2", "02"]:
-			Public()
-		if UZAIR in ["3", "03"]:
-			os.system("python2 mrd1.py")
-		if UZAIR in ["4", "04"]:
-			self.old()
-		if UZAIR in ["5", "05"]:
-			self.old2()
-			exit()
-		else:
-			print (" Select Correctly ")
-			time.sleep(1)
-			Main()
+		
  
 	def old(self):
 		x = 111111111
@@ -504,7 +489,7 @@ class Main:
 				print("\033[1;37m")
 				for user in self.id:
 					coeg.submit(self.api, user, listpass.split(","))
-			exit("\n\n \033[1;37m>>[PROCESS COMPLETE... \n\033[0;92m >>[Thanks for using my tool...")
+			exit("\n\n \033[1;39m>>[PROCESS COMPLETE... \n\033[0;92m >>[Thanks for using my tool...")
 		except Exception as e:exit(str(e))
  
 	def api(self, uid, pwx):
